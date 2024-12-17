@@ -1,4 +1,4 @@
-"""Initial migration
+pip install python-slugify"""Initial migration
 
 Revision ID: 4d2a5a2f35b6
 Revises: 
